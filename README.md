@@ -1,4 +1,4 @@
-# Project1
+# Group Project 1
 
 Primary Animal Data Source:
 Wildlife Insights Wasatch data 2018-2020
